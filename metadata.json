@@ -1,0 +1,8 @@
+{
+  "name": "Digital Oromiya",
+  "description": "A strategic digital transformation initiative for the Oromiya region and Ethiopia, focused on digital literacy, AI education, and citizen-centric governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
